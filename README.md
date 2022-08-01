@@ -1,6 +1,6 @@
 # Bigsur-opencore-i5-3470-b75m-d3h
 
-
+Opencore: 0.6.9
 CPU: i5 3470
 GPU: Zotac GTX 730 1G D5
 Mainboard: Gigabyte B75M-D3H
